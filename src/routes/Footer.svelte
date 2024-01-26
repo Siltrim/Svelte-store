@@ -154,5 +154,9 @@
         line-height: 28px;
       }
     }
+
+    .info_desc {
+      width: 100%;
+    }
   }
 </style>
