@@ -154,9 +154,11 @@
         line-height: 28px;
       }
     }
-
-    .info_desc {
-      width: 100%;
+    .info_left {
+      .info_desc {
+        width: 100%;
+        height: auto;
+      }
     }
   }
 </style>

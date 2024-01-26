@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-  <title>Заказать печать для компании</title>
+  <title>Алейрон</title>
   <meta name="description" content="Алейрон" />
 </svelte:head>
 
