@@ -7,7 +7,7 @@
 
 <svelte:head>
   <title>Заказать печать для компании</title>
-  <meta name="description" content="Заказать печать для компании" />
+  <meta name="description" content="Алейрон" />
 </svelte:head>
 
 <section class="main">
